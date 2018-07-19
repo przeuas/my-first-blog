@@ -1,0 +1,9 @@
+apt token
+
+056d62de379e508a55fcbeaf4d64d55af63d3be8
+
+start œrodowiska:
+	myvenv\Scripts\activate
+
+start serwera
+	python manage.py runserver
